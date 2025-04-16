@@ -12,7 +12,9 @@
 - ...
 
 ## 一.使用方法
-windows下解压软件，点击 `运行.cmd`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
+> [点击下载](https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato-mirror1.0.0.zip)
+
+只支持windows，下载解压软件，点击 `运行.cmd`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
 ## 二.功能截图
 ![0](asset/0.png)
 ![1](asset/1.png)
