@@ -36,16 +36,16 @@
 ![3](asset/3.png)
 ### 5.详情页-配置
 ![4](asset/4.png)
+![4](asset/4-1.png)
 ### 6.详情页-命令行
 ![5](asset/5.png)
 ### 7.详情页-文件管理
 ![6](asset/6.png)
 ### 8.详情页-录屏
 ![7](asset/7.png)
-### 9.详情页-录屏播放
-![8](asset/8.png)
+![7](asset/7-1.png)
 ### 10.手机分组管理
-![8](asset/9.png)
+![8](asset/8.png)
 
 ## 三.webcodecs
 由于浏览器安全限制，VideoDecorder, AudioDecorder需要在https或者本地localhost访问才能使用。  
