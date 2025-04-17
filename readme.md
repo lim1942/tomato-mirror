@@ -20,7 +20,7 @@
 1. 确保已经配置好adb和手机，adb devices能看到手机列表
 2. 下载解压软件，点击 `运行.cmd`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
 3. 初次使用点击 `手机` >`发现` 按钮，将自动录入adb devices中的设备。
-4. 局域网访问无法投屏，请看下面webcodecs的关闭浏览器安全限制。
+4. 局域网/互联网无法投屏，请看下面[webcodecs](#webcodecs)的关闭浏览器安全限制。
 ## 二.功能截图
 ![0](asset/0.png)
 ![1](asset/1.png)
@@ -32,7 +32,7 @@
 ![7](asset/7.png)
 ![8](asset/8.png)
 
-## 三.webcodecs
+## 三.webcodecs {#webcodecs}
 由于浏览器安全限制，VideoDecorder, AudioDecorder需要在https或者本地localhost访问才能使用。  
 webcodecs是浏览器的硬解码，解码速度和质量比broardway要好，但是兼容性不如broardway，很多浏览器不支持。
 ### 1.chrome关闭特定网址安全限制
