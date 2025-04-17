@@ -32,7 +32,7 @@
 ![7](asset/7.png)
 ![8](asset/8.png)
 
-## 三.webcodecs {#webcodecs}
+## 三.webcodecs
 由于浏览器安全限制，VideoDecorder, AudioDecorder需要在https或者本地localhost访问才能使用。  
 webcodecs是浏览器的硬解码，解码速度和质量比broardway要好，但是兼容性不如broardway，很多浏览器不支持。
 ### 1.chrome关闭特定网址安全限制
