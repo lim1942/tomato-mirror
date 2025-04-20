@@ -19,7 +19,7 @@
 - ...
 
 ## 一.使用方法
->只支持windows， [点击下载](https://github.com/lim1942/tomato-mirror/releases/download/v1.0.1/tomato-mirror1.0.1.zip)
+>只支持windows
 
 1. 确保已经配置好adb和手机，adb devices能看到手机列表
 2. 下载解压软件，点击 `运行.cmd`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
