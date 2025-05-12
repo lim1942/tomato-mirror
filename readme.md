@@ -23,13 +23,13 @@
 ## 一.下载&使用
 **只支持windows部署**  
 ### 1.下载
-#### 1).lite版本：[番茄投屏lite](!https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato_mirror_lite1.0.0.zip)
-#### 2).pro版本：敬请期待...
+- lite版本：[番茄投屏lite](!https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato_mirror_lite1.0.0.zip)
+- pro版本：敬请期待...
 
 ### 2.使用
-#### 1).确保已经配置好adb和手机，adb devices能看到手机列表
-#### 2).下载解压软件，点击 `tomato_mirror.exe`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
-#### 3).局域网/互联网若无法投屏，请看下面[webcodecs](#%E4%B8%89webcodecs)的关闭chrome浏览器安全限制。
+- 确保已经配置好adb和手机，adb devices能看到手机列表
+- 下载解压软件，点击 `tomato_mirror.exe`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
+- 局域网/互联网若无法投屏，请看下面[webcodecs](#%E4%B8%89webcodecs)的关闭chrome浏览器安全限制。
 
 ## 二.功能截图
 ### 1.登录页
