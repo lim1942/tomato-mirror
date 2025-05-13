@@ -23,7 +23,7 @@
 ## 一.下载&使用
 **只支持windows部署**  
 ### 下载
-- lite版本：[番茄投屏lite](!https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato_mirror_lite1.0.0.zip)
+- lite版本：[番茄投屏lite](https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato_mirror_lite1.0.0.zip)
 - pro版本：敬请期待...
 
 ### 使用
