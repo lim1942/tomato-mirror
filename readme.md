@@ -70,3 +70,11 @@
 浏览器输入 chrome://flags
 ![image](asset/chrome.png)
 在Insecure origins treated as secure中加入需要关闭安全限制站点，逗号分隔，配置好点击Relauch.重启后该站点可用webcodecs播放器了。
+
+## 四.其他问题
+### 1.通过环境变量修改adb地址和端口
+> ***计算机(右键) >属性 >高级系统设置 >环境变量***,  设置完重启软件
+- ADB_SERVER_ADDR
+![other_adb_1.png](asset%2Fother_adb_1.png)
+- ADB_SERVER_PORT
+![other_adb_2.png](asset%2Fother_adb_2.png)
