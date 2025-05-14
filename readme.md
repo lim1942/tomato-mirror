@@ -74,9 +74,9 @@
 ## 四.其他问题
 ### 1.环境变量
 > ***计算机(右键) >属性 >高级系统设置 >环境变量***,  设置完重启软件
-- ***ADB_SERVER_ADDR*** 设置adb地址，默认127.0.0.1   
-![other_adb_1.png](asset%2Fother_adb_1.png)
-- ***ADB_SERVER_PORT*** 设置adb端口，默认5037   
-![other_adb_2.png](asset%2Fother_adb_2.png)
+![other_env.png](asset%2Fother_env.png)
 - ***TOMATO_SERVER_PORT*** 设置http服务端口，默认8888  
-- ***TOMATO_WS_SERVER_PORT*** 设置ws服务端口，默认8082    
+### 2.配置表
+> 修改后需要重启生效
+> 
+![other_config.png](asset%2Fother_config.png)
