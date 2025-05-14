@@ -23,7 +23,7 @@
 ## 一.下载&使用
 **只支持windows部署**  
 ### 下载
-- lite版本：[番茄投屏lite.exe](https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato_mirror_lite1.0.0.exe)
+- lite版本：[番茄投屏lite.exe](https://github.com/lim1942/tomato-mirror/releases/download/v1.0.0/tomato_mirror_lite1.0.1.exe)
 - pro版本：敬请期待...
 
 ### 使用
@@ -72,9 +72,11 @@
 在Insecure origins treated as secure中加入需要关闭安全限制站点，逗号分隔，配置好点击Relauch.重启后该站点可用webcodecs播放器了。
 
 ## 四.其他问题
-### 1.通过环境变量修改adb地址和端口
+### 1.环境变量
 > ***计算机(右键) >属性 >高级系统设置 >环境变量***,  设置完重启软件
-- ADB_SERVER_ADDR  
+- ADB_SERVER_ADDR 设置adb地址  
 ![other_adb_1.png](asset%2Fother_adb_1.png)
-- ADB_SERVER_PORT  
+- ADB_SERVER_PORT 设置adb端口   
 ![other_adb_2.png](asset%2Fother_adb_2.png)
+- TOMATO_SERVER_PORT 设置http服务端口  
+- TOMATO_WS_SERVER_PORT 设置ws服务端口  
