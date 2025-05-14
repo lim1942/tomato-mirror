@@ -77,6 +77,6 @@
 ![other_env.png](asset%2Fother_env.png)
 - ***TOMATO_SERVER_PORT*** 设置http服务端口，默认8888  
 ### 2.配置表
-> 修改后需要重启生效
+> ***系统管理 >配置管理***, 设置完重启软件
 > 
 ![other_config.png](asset%2Fother_config.png)
