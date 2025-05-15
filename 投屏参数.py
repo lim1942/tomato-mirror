@@ -1,4 +1,11 @@
 DEFAULT_SCRCPY_KWARGS = {
+    # 超时配置， 总超时时间 = mirror_retry * (mirror_timeout + mirror_retry_wait)
+    # 投屏创建失败重试次数。(会覆盖配置表的MIRROR_RETRY)
+    "mirror_retry": 5,
+    # 投屏创建的超时时间(秒)，单次若超时还未成功直接停止开始下次 (会覆盖配置表的MIRROR_TIMEOUT)
+    "mirror_timeout": 6,
+    # 投屏创建失败后等待时间(秒),上次失败后可能需要等待一会开始下次重试 (会覆盖配置表的MIRROR_RETRY_WAIT)
+    "mirror_retry_wait": 1,
     # uhid键盘鼠标是否打开
     "uhid_keyboard": False,
     "uhid_mouse": False,
