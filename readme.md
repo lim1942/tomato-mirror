@@ -71,7 +71,7 @@
 ![image](asset/chrome.png)
 在Insecure origins treated as secure中加入需要关闭安全限制站点，逗号分隔，配置好点击Relauch.重启后该站点可用webcodecs播放器了。
 
-## 四.其他问题
+## 四.常用配置
 ### 1.环境变量
 > ***计算机(右键) >属性 >高级系统设置 >环境变量***,  设置完重启软件
 ![other_env.png](asset%2Fother_env.png)
@@ -80,3 +80,5 @@
 > ***系统管理 >配置管理***, 设置完重启软件
 > 
 ![other_config.png](asset%2Fother_config.png)
+### 3.投屏参数配置
+> 详见：[投屏参数.py](%E6%8A%95%E5%B1%8F%E5%8F%82%E6%95%B0.py)
