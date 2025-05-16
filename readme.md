@@ -21,7 +21,6 @@
 - ...
 
 ## 一.下载&使用
-**只支持windows部署**  
 ### 下载
 - lite版本：[番茄投屏lite.exe](../../releases/latest)
 - pro版本：敬请期待...
