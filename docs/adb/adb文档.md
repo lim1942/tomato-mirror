@@ -12,7 +12,7 @@
 
 # 二.adb配置
 ## 1.下载
-[下载adb工具](..%2Ffiles%2Fadb_tool.zip)，解压后进入adb_tool目录
+[adb_tool.zip](../../files/adb_tool.zip)，解压后进入adb_tool目录
 
 ## 2.运行
 ### 目录内，鼠标右键`在终端打开`，打开黑窗口
