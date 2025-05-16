@@ -26,7 +26,7 @@
 - pro版本：敬请期待...
 
 ### 使用
-1. 确保已经配置好adb和手机，adb devices能看到手机列表
+1. 确保已经配置好adb和手机，adb devices能看到手机列表。[adb配置文档](docs%2Fadb%2Fadb%E6%96%87%E6%A1%A3.md)
 2. 点击 `tomato_mirror.exe`后，谷歌浏览器访问 `http://127.0.0.1:8888/`
 3. 局域网/互联网若无法投屏，请看下面[webcodecs](#%E4%B8%89webcodecs)的关闭chrome浏览器安全限制。
 
