@@ -66,9 +66,9 @@
 ## 三.webcodecs
 由于浏览器安全限制，投屏播放器需要在`https`或者`本地`访问才能使用。  
 ### 1.chrome关闭特定网址安全限制
-浏览器输入 chrome://flags
+浏览器输入 `chrome://flags`
 ![image](asset/chrome.png)
-在Insecure origins treated as secure中加入需要关闭安全限制站点，逗号分隔，配置好点击Relauch就可以
+在`Insecure origins treated as secure`中加入需要关闭安全限制站点，逗号分隔，配置好点击`Relauch`就可以
 
 ## 四.常用配置
 ### 1.环境变量
