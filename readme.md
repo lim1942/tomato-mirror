@@ -68,7 +68,7 @@
 ### 1.chrome关闭特定网址安全限制
 浏览器输入 `chrome://flags`
 ![image](asset/chrome.png)
-在`Insecure origins treated as secure`中加入需要关闭安全限制站点，逗号分隔，配置好点击`Relauch`就可以
+在`Insecure origins treated as secure`中加入需要关闭安全限制站点，逗号分隔。配置好后选择`启用`, 点击`重启`就可以了
 
 ## 四.常用配置
 ### 1.环境变量
