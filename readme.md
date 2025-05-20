@@ -64,11 +64,11 @@
 
 
 ## 三.webcodecs
-由于浏览器安全限制，VideoDecorder, AudioDecorder需要在https或者本地localhost访问才能使用。  
+由于浏览器安全限制，投屏播放器需要在https或者本地访问才能使用。  
 ### 1.chrome关闭特定网址安全限制
 浏览器输入 chrome://flags
 ![image](asset/chrome.png)
-在Insecure origins treated as secure中加入需要关闭安全限制站点，逗号分隔，配置好点击Relauch.重启后该站点可用webcodecs播放器了。
+在Insecure origins treated as secure中加入需要关闭安全限制站点，逗号分隔，配置好点击Relauch就可以
 
 ## 四.常用配置
 ### 1.环境变量
