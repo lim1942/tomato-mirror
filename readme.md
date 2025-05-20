@@ -64,7 +64,7 @@
 
 
 ## 三.webcodecs
-由于浏览器安全限制，投屏播放器需要在https或者本地访问才能使用。  
+由于浏览器安全限制，投屏播放器需要在`https`或者`本地`访问才能使用。  
 ### 1.chrome关闭特定网址安全限制
 浏览器输入 chrome://flags
 ![image](asset/chrome.png)
