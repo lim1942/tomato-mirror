@@ -83,3 +83,9 @@
 ![other_config.png](asset%2Fother_config.png)
 ### 3.投屏参数配置
 > 详见：[投屏参数.py](%E6%8A%95%E5%B1%8F%E5%8F%82%E6%95%B0.py)
+### 4.管理员创建/密码重置
+![other_cmd_user.png](asset%2Fother_cmd_user.png)
+#### (1) 管理员创建：使用命令行直接创建管理员
+`tomato.exe create_superuser:admin`
+#### (2) 用户密码重置：使用命令行直接重置密码(当忘记密码时)
+`tomato.exe reset_passwd:admin`
