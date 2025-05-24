@@ -89,3 +89,5 @@
 `tomato.exe create_superuser:admin`
 #### (2) 用户密码重置：使用命令行直接重置密码(当忘记密码时)
 `tomato.exe reset_passwd:admin`
+#### (3) 重置菜单
+`tomato.exe reset_menu`
