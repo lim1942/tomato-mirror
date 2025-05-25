@@ -14,7 +14,7 @@
 ![1](asset/1.png)
 ![1](asset/1-1.png)
 ### 3.视图列表页
-![2](asset/2.png)
+![2](asset%2Findex%2Fbanner.jpg)
 ### 4.普通列表页
 ![3](asset/3.png)
 ### 5.详情页-配置
