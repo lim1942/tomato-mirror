@@ -14,8 +14,8 @@
 ### 4.普通列表页
 ![3](asset/3.png)
 ### 5.详情页-配置
-![4](asset/4.png)
-![4](asset/4-1.png)
-![4](asset/4-2.png)
+![4](asset/lite/4.png)
+![4](asset/lite/4-1.png)
+![4](asset/lite/4-2.png)
 ### 6.手机分组管理
 ![9](asset/9.png)
