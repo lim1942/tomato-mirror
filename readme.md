@@ -39,8 +39,8 @@
 
 
 
-## 三.webcodecs
-由于浏览器安全限制，投屏播放器需要在`https`或者`本地`访问才能使用。  
+## 三.chrome无法播放配置
+由于浏览器安全限制，需要域名为`https`或者`本地`访问才能使用播放器。  
 ### 1.chrome关闭特定网址安全限制
 浏览器输入 `chrome://flags`
 ![image](asset/chrome.png)
