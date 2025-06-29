@@ -65,3 +65,6 @@
 `tomato.exe reset_passwd:admin`
 #### (3) 重置菜单
 `tomato.exe reset_menu`
+#### (4) 重置激活码
+> 需要重新激活时执行 
+`tomato.exe remove_license`
