@@ -6,7 +6,7 @@
 ### 目录内，鼠标右键`在终端打开`，打开黑窗口
 ![img_1.png](img_1.png)
 若右键菜单无 `在终端打开`, 清空顶部地址栏输入`cmd`，回车打开黑窗口
-![img3.png](img3.png)
+![img3.jpg](img3.jgp)
 ### 黑窗口执行 `adb.exe devices`,看到如下的设备列表就是配置成功！！！
 ![img.png](img.png)
 
