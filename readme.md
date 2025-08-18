@@ -30,7 +30,7 @@
 > 下载地址：`请加qq交流群(957034905),群文件下载`
 
 ## 二. 使用教程
-> [演示视频](https://www.bilibili.com/video/BV1sgJTztE14/)
+> [演示视频](https://www.bilibili.com/video/BV1sgJTztE14/)  
 > [详细操作说明](https://share.note.youdao.com/s/GfBKy1lF)
 1. 配置好adb和手机，adb devices能看到手机列表。[adb配置文档](docs%2Fadb%2Fadb%E6%96%87%E6%A1%A3.md)
 2. 点击 `exe`后，浏览器访问 `http://127.0.0.1:8888/` 管理员admin/123456
